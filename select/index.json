@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Into the I-LAND",
+  "base_artist": "IU",
+  "createdAt": "2026-02-19T09:31:16.130380Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Into the I-LAND (Into the I-LAND)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_Into_the_I-LAND_(Into_the_I-LAND)_IU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Into the I-LAND",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/02_Into_the_I-LAND_IU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Into the I-LAND",
+      "artist": "I-LAND",
+      "has_synced": true,
+      "path": "select/03_Into_the_I-LAND_I-LAND.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Into the I-LAND",
+      "artist": "I-Land",
+      "has_synced": true,
+      "path": "select/04_Into_the_I-LAND_I-Land.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Into the I-LAND",
+      "artist": "I-LAND",
+      "has_synced": true,
+      "path": "select/05_Into_the_I-LAND_I-LAND.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Into the I-LAND",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/06_Into_the_I-LAND_IU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Into the I-Land",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/07_Into_the_I-Land_IU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Into the I-Land",
+      "artist": "이지은 (IU)",
+      "has_synced": true,
+      "path": "select/08_Into_the_I-Land_이지은_(IU).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Into the I-LAND (Applicants Version)",
+      "artist": "I-Land",
+      "has_synced": true,
+      "path": "select/09_Into_the_I-LAND_(Applicants_Version)_I-Land.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Into the I-LAND",
+      "artist": "아이유(IU)",
+      "has_synced": true,
+      "path": "select/10_Into_the_I-LAND_아이유(IU).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Into the I-LAND - Applicants Version",
+      "artist": "I-LAND",
+      "has_synced": true,
+      "path": "select/11_Into_the_I-LAND_-_Applicants_Version_I-LAND.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Into the I-LAND (Applicants Version)",
+      "artist": "I-Land",
+      "has_synced": true,
+      "path": "select/12_Into_the_I-LAND_(Applicants_Version)_I-Land.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Into the I-LAND (From \"I-LAND, Pt.1 Signal Song\") (Applicants Version)",
+      "artist": "I-Land",
+      "has_synced": true,
+      "path": "select/13_Into_the_I-LAND_(From__I-LAND,_Pt.1_Signal_Song_)_(Applicants_Version)_I-Land.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Into the I-Land",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Into_the_I-Land_IU.txt"
+    }
+  ]
+}
